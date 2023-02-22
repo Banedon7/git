@@ -1,0 +1,15 @@
+* 5f9459a Agregando 2 párrafos
+* 9d9eab1 Resolviendo conflicto en estaciones del año y fechas de inicio
+*   8b41461 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 2a6f2e4 Agregando index.js al index.html
+* | 6734d5e Agregando style.css al index.html
+* | 4d3682b Creando index.js
+* | f9c1b78 Creando style.css
+|/  
+* 35eea70 Creando index.html
+* 0581ff5 Ignorando archivos .exe
+* 9c0c370 Creando licencia del repositorio
+* 572f098 Agregando más contenido al README
+* e65209b Agregando contenido inicial al README
+* ec11aa8 Primer commit 😀

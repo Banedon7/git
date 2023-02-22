@@ -1,0 +1,78 @@
+commit 5f9459a04dbd13869fabf41bfc59dde6ea9664ed
+Author: Banedon7 <jesusdtn.18@gmail.com>
+Date:   Tue Feb 21 11:43:21 2023 -0400
+
+    Agregando 2 párrafos
+
+commit 9d9eab12db0bd6f87c6b9ba07c043872af5ca691
+Author: Banedon7 <jesusdtn.18@gmail.com>
+Date:   Tue Feb 21 08:45:07 2023 -0400
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 8b41461cec01d091f52907c526722fa386ae70e8
+Merge: 6734d5e 2a6f2e4
+Author: Banedon7 <jesusdtn.18@gmail.com>
+Date:   Mon Feb 20 09:41:54 2023 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 2a6f2e49852ab440aaf86238d1841d77111aa57d
+Author: Banedon7 <jesusdtn.18@gmail.com>
+Date:   Mon Feb 20 09:32:01 2023 -0400
+
+    Agregando index.js al index.html
+
+commit 6734d5eb3ba9ff306663fee04c7e9b5e7980e775
+Author: Banedon7 <jesusdtn.18@gmail.com>
+Date:   Mon Feb 20 09:24:27 2023 -0400
+
+    Agregando style.css al index.html
+
+commit 4d3682b253f53599de46ea9c58bf68cc187f6676
+Author: Banedon7 <jesusdtn.18@gmail.com>
+Date:   Mon Feb 20 09:06:24 2023 -0400
+
+    Creando index.js
+
+commit f9c1b784f81415f38fb195e68fdb872cab4c132d
+Author: Banedon7 <jesusdtn.18@gmail.com>
+Date:   Sun Feb 19 12:36:40 2023 -0400
+
+    Creando style.css
+
+commit 35eea70e0e1faa761a350c5be47c6ae3e8d1e9b7
+Author: Banedon7 <jesusdtn.18@gmail.com>
+Date:   Sun Feb 19 09:34:01 2023 -0400
+
+    Creando index.html
+
+commit 0581ff5cc2c980f018ff4996590f905f287816d8
+Author: Banedon7 <jesusdtn.18@gmail.com>
+Date:   Sat Feb 18 17:16:58 2023 -0400
+
+    Ignorando archivos .exe
+
+commit 9c0c370a51667bddedc85272e2d2b662bc45066c
+Author: Banedon7 <111320934+Banedon7@users.noreply.github.com>
+Date:   Sat Feb 18 13:37:17 2023 -0400
+
+    Creando licencia del repositorio
+
+commit 572f0985271d14646dfa3d455147480896ddf4d9
+Author: Banedon7 <jesusdtn.18@gmail.com>
+Date:   Sat Feb 18 13:24:24 2023 -0400
+
+    Agregando más contenido al README
+
+commit e65209bdf0b0d4ec28892cddc01d9792be38c876
+Author: Banedon7 <jesusdtn.18@gmail.com>
+Date:   Fri Feb 17 18:37:54 2023 -0400
+
+    Agregando contenido inicial al README
+
+commit ec11aa8bbdb4849ed9e34fafe706312e08c340c6
+Author: Banedon7 <jesusdtn.18@gmail.com>
+Date:   Fri Feb 17 06:07:44 2023 -0400
+
+    Primer commit 😀
